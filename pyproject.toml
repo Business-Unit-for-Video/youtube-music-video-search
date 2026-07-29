@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "youtube-music-video-search"
+version = "0.1.0"
+description = "Build auditable YouTube music-video URL inventories without downloading media."
+requires-python = ">=3.11"
+dependencies = ["PyYAML>=6.0,<7", "yt-dlp>=2025.6.30"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9"]
+
+[project.scripts]
+youtube-music-search = "youtube_music_search.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

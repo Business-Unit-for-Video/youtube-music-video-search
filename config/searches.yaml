@@ -1,0 +1,21 @@
+subject: "周杰伦"
+output_dir: output
+max_results_per_query: 100
+sleep_interval: 1.0
+queries:
+  - "周杰伦 官方 MV"
+  - "周杰伦 Official Music Video"
+  - "Jay Chou Official MV"
+  - "周杰伦 完整版"
+  - "周杰伦 歌曲"
+  - "周杰伦 现场 Live"
+  - "周杰伦 演唱会"
+  - "周杰伦 专辑"
+  - "周杰伦 杰威尔音乐"
+  - "周杰伦 JVR Music"
+  - "周杰伦 Sony Music Taiwan"
+  - "周杰伦 lyric video"
+  - "周杰伦 歌词版"
+  - "周杰伦 高音质"
+  - "周杰伦 4K MV"
+  - "周杰伦 1080P MV"
