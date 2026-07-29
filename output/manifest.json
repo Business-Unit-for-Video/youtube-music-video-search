@@ -1,0 +1,30 @@
+{
+  "subject": "周杰伦",
+  "generated_at": "2026-07-29T02:46:39.316916+00:00",
+  "query_count": 16,
+  "successful_query_count": 16,
+  "failed_query_count": 0,
+  "unique_video_count": 3879,
+  "max_results_per_query": "all_available",
+  "query_result_counts": {
+    "周杰伦 官方 MV": 521,
+    "周杰伦 Official Music Video": 457,
+    "Jay Chou Official MV": 480,
+    "周杰伦 完整版": 512,
+    "周杰伦 歌曲": 442,
+    "周杰伦 现场 Live": 514,
+    "周杰伦 演唱会": 510,
+    "周杰伦 专辑": 433,
+    "周杰伦 杰威尔音乐": 357,
+    "周杰伦 JVR Music": 258,
+    "周杰伦 Sony Music Taiwan": 414,
+    "周杰伦 lyric video": 572,
+    "周杰伦 歌词版": 483,
+    "周杰伦 高音质": 447,
+    "周杰伦 4K MV": 335,
+    "周杰伦 1080P MV": 501
+  },
+  "query_failures": {},
+  "config_sha256": "52d007b40a5be645feb4084d2a884a30d0df6ae32802812d4ca91dc67cd681e2",
+  "scope_note": "Publicly discoverable YouTube results at collection time; deleted, private, region-restricted, unlisted, or search-suppressed videos may be absent."
+}
